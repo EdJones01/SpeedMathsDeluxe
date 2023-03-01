@@ -1,0 +1,15 @@
+Speed Maths deluxe is a game about doing basic arithmetic as quickly as possible. It uses Google’s “Digital ink recognition” API which is a part of their ML Kit to detect the numbers the user writes with their finger.
+
+How to play:
+Once you press play, a timer will count down from 3. After this you will be presented with a screen with 3 main elements. From top to bottom you will find the equation to solve (along with the next equation and a timer), the window for you to write your answer and a button for you to clear the window if you make a mistake. The equation will not change until you get the question right. Try and complete all of the questions as fast as possible to win.
+
+For fractional answers, be sure to use 'x/y' notation.
+
+Changing the game settings:
+There are a multitude of things you can change in order to make equations to your specific desire. You can change:
+
+    • How many questions there are in each round.
+    • The range of numbers that are in the equations e.g. allowing only the numbers 1-10.
+    • You can turn the sound for the game on and off.
+
+Each high score (quickest time) is saved depending on the configuration specified e.g. If you set a high score with 10 questions and then do the same game but with 5 questions they will have different high scores.
