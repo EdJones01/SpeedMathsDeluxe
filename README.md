@@ -1,5 +1,5 @@
 
-# Speed Maths
+# Speed Maths Deluxe
 
 A follow up to my previous app - Speed Maths: Speed Maths Deluxe. Like it's predecessor, it's a game about completing mathematical problems as quickly as possible, however now with the feature of solving linear equations.
 
